@@ -9,8 +9,7 @@ export default function App() {
       <p>Start editing to see some magic happen :)</p>
       <p>Start editing to see some magic happen :)</p>
       <p>Start editing to see some magic happen :)</p>
-
-
+      <p>Start editing to see some magic happen :)</p>
     </div>
   );
 }
